@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">How the Gulf's oil routes changed</title>
+<desc id="desc">Shares of non-Iranian Gulf crude exports: before the war, 83 percent via Hormuz and 17 percent bypass; September 2026, 60 percent via Hormuz and 40 percent bypass.</desc>
+<rect width="1200" height="490" fill="#fff"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="55" y="39" font-size="28" font-weight="700" fill="#17202b">How the Gulf's oil routes changed</text>
+<text x="55" y="69" font-size="17" fill="#283c4e">Share of non-Iranian Gulf crude exports by route (%)</text>
+<rect x="596" y="84" width="19" height="19" fill="#c65d49"/><text x="622" y="100" font-size="15" fill="#30343b">Bypass routes</text>
+<rect x="758" y="84" width="19" height="19" fill="#213d54"/><text x="785" y="100" font-size="15" fill="#30343b">Via Hormuz</text>
+<g stroke="#e4e7eb" stroke-width="1"><line x1="55" x2="1147" y1="410" y2="410"/><line x1="55" x2="1147" y1="353" y2="353"/><line x1="55" x2="1147" y1="296" y2="296"/><line x1="55" x2="1147" y1="239" y2="239"/><line x1="55" x2="1147" y1="182" y2="182"/><line x1="55" x2="1147" y1="125" y2="125"/></g>
+<text x="43" y="415" text-anchor="end" font-size="13" fill="#58636f">0</text><text x="43" y="358" text-anchor="end" font-size="13" fill="#58636f">20</text><text x="43" y="301" text-anchor="end" font-size="13" fill="#58636f">40</text><text x="43" y="244" text-anchor="end" font-size="13" fill="#58636f">60</text><text x="43" y="187" text-anchor="end" font-size="13" fill="#58636f">80</text><text x="43" y="130" text-anchor="end" font-size="13" fill="#58636f">100</text>
+<g><rect x="310" y="173.45" width="256" height="236.55" fill="#213d54"/><rect x="310" y="125" width="256" height="48.45" fill="#c65d49"/>
+<text x="438" y="303" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">83%</text>
+<text x="438" y="157" text-anchor="middle" font-size="21" font-weight="700" fill="#fff">17%</text>
+<rect x="774" y="239" width="256" height="171" fill="#213d54"/><rect x="774" y="125" width="256" height="114" fill="#c65d49"/>
+<text x="902" y="334" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">60%</text>
+<text x="902" y="190" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">40%</text></g>
+<text x="438" y="435" font-size="17" text-anchor="middle" fill="#3e4855">Before the war</text><text x="902" y="435" font-size="17" text-anchor="middle" fill="#3e4855">September 2026</text>
+<text x="55" y="464" font-size="12" fill="#687180">Source: Kpler; pre-war March 2025–February 2026, September 1–28, 2026.</text>
+<text x="55" y="481" font-size="12" fill="#687180">Vector rendering of the author's R chart. Shares by route, not absolute export volumes.</text>
+</g></svg>
